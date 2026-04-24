@@ -1,0 +1,251 @@
+version 4.5
+game MW
+ui_text Thank you for downloading.
+ui_text Please do not distribute this file other than this site without my permission.
+update_field timeofdaylighting sunny AmbientColour X 0.25
+update_field timeofdaylighting sunny AmbientColour Y 0.24
+update_field timeofdaylighting sunny AmbientColour Z 0.31
+update_field timeofdaylighting sunny CarSpecScale 0.2
+update_field timeofdaylighting sunny DiffuseColour X 1
+update_field timeofdaylighting sunny DiffuseColour Y 0.8
+update_field timeofdaylighting sunny DiffuseColour Z 0.3
+update_field timeofdaylighting sunny FixedFunctionSkyColor X 0.86
+update_field timeofdaylighting sunny FixedFunctionSkyColor Y 0.95
+update_field timeofdaylighting sunny FogDistanceScale 3
+update_field timeofdaylighting sunny FogHazeColour X 0.23
+update_field timeofdaylighting sunny FogHazeColour Y 0.28
+update_field timeofdaylighting sunny FogHazeColour Z 0.37
+update_field timeofdaylighting sunny SpecularColour X 0.32
+update_field timeofdaylighting sunny SpecularColour Y 0.28
+update_field timeofdaylighting sunny SpecularColour Z 0.22
+update_field timeofdaylighting sunny FogSkyColour X 0.02
+update_field timeofdaylighting sunny FogSkyColour Y 0.04000001
+update_field timeofdaylighting sunny FogSkyColour Z 0.08
+update_field timeofdaylighting overcast AmbientColour X 0.25
+update_field timeofdaylighting overcast AmbientColour Y 0.24
+update_field timeofdaylighting overcast AmbientColour Z 0.31
+update_field timeofdaylighting overcast CarSpecScale 0.2
+update_field timeofdaylighting overcast DiffuseColour X 1
+update_field timeofdaylighting overcast DiffuseColour Y 0.8
+update_field timeofdaylighting overcast DiffuseColour Z 0.3
+update_field timeofdaylighting overcast FogDistanceScale 3
+update_field timeofdaylighting overcast FogHazeColour X 0.23
+update_field timeofdaylighting overcast FogHazeColour Y 0.28
+update_field timeofdaylighting overcast FogHazeColour Z 0.37
+update_field timeofdaylighting overcast SpecularColour X 0.32
+update_field timeofdaylighting overcast SpecularColour Y 0.28
+update_field timeofdaylighting overcast SpecularColour Z 0.22
+update_field timeofdaylighting overcast FogSkyColour X 0.02
+update_field timeofdaylighting overcast FogSkyColour Y 0.04000001
+update_field timeofdaylighting overcast FogSkyColour Z 0.08
+update_field timeofdaylighting overcast DiffuseColour Z 0.8
+update_field timeofdaylighting overcast DiffuseColour X 0.8
+update_field timeofdaylighting sunny DiffuseColour Z 0.9
+update_field timeofdaylighting sunny DiffuseColour X 0.9
+update_field timeofdaylighting sunny DiffuseColour Y 0.9
+update_field timeofdaylighting sunny AmbientColour Z 0.25
+update_field timeofdaylighting sunny FixedFunctionSkyColor X 1
+update_field timeofdaylighting sunny FixedFunctionSkyColor Y 1
+update_field timeofdaylighting sunny FogHazeColour X 0.3
+update_field timeofdaylighting sunny FogHazeColour Y 0.3
+update_field timeofdaylighting sunny FogHazeColour Z 0.3
+update_field timeofdaylighting sunny SpecularColour X 0.3
+update_field timeofdaylighting sunny SpecularColour Y 0.3
+update_field timeofdaylighting sunny SpecularColour Z 0.3
+update_field timeofdaylighting sunny AmbientColour X 0.3
+update_field timeofdaylighting sunny AmbientColour Y 0.3
+update_field timeofdaylighting sunny AmbientColour Z 0.3
+update_field timeofdaylighting overcast SpecularColour X 0.3
+update_field timeofdaylighting overcast SpecularColour Y 0.3
+update_field timeofdaylighting overcast SpecularColour Z 0.3
+update_field timeofdaylighting overcast FogHazeColour X 0.3
+update_field timeofdaylighting overcast FogHazeColour Y 0.3
+update_field timeofdaylighting overcast FogHazeColour Z 0.3
+update_field timeofdaylighting overcast FixedFunctionSkyColor X 1
+update_field timeofdaylighting overcast FixedFunctionSkyColor Y 1
+update_field timeofdaylighting overcast AmbientColour X 0.3
+update_field timeofdaylighting overcast AmbientColour Y 0.3
+update_field timeofdaylighting overcast AmbientColour Z 0.3
+update_field timeofdaylighting sunny AmbientColour X 0.1
+update_field timeofdaylighting sunny AmbientColour Y 0.1
+update_field timeofdaylighting sunny AmbientColour Z 0.1
+update_field timeofdaylighting sunny CarSpecScale 0.1
+update_field timeofdaylighting sunny FogHazeColour X 0.1
+update_field timeofdaylighting sunny FogHazeColour Y 0.1
+update_field timeofdaylighting sunny FogHazeColour Z 0.1
+update_field timeofdaylighting sunny SpecularColour X 0.1
+update_field timeofdaylighting sunny SpecularColour Y 0.1
+update_field timeofdaylighting sunny SpecularColour Z 0.1
+update_field timeofdaylighting overcast AmbientColour X 0.1
+update_field timeofdaylighting overcast AmbientColour Y 0.1
+update_field timeofdaylighting overcast AmbientColour Z 0.1
+update_field timeofdaylighting overcast DiffuseColour X 0.1
+update_field timeofdaylighting overcast DiffuseColour Y 0.1
+update_field timeofdaylighting overcast DiffuseColour Z 0.1
+update_field timeofdaylighting overcast FogHazeColour X 0.1
+update_field timeofdaylighting overcast FogHazeColour Y 0.1
+update_field timeofdaylighting overcast FogHazeColour Z 0.1
+update_field timeofdaylighting overcast SpecularColour X 0.1
+update_field timeofdaylighting overcast SpecularColour Y 0.1
+update_field timeofdaylighting overcast SpecularColour Z 0.1
+update_field timeofdaylighting overcast FixedFunctionSkyColor X 0.1
+update_field timeofdaylighting overcast FixedFunctionSkyColor Y 0.1
+update_field timeofdaylighting overcast FixedFunctionSkyColor Z 0.1
+update_field timeofdaylighting sunny FixedFunctionSkyColor X 0.1
+update_field timeofdaylighting sunny FixedFunctionSkyColor Y 0.1
+update_field timeofdaylighting sunny FixedFunctionSkyColor Z 0.1
+update_field timeofdaylighting sunny DiffuseColour X 0.1
+update_field timeofdaylighting sunny DiffuseColour Y 0.1
+update_field timeofdaylighting sunny DiffuseColour Z 0.1
+update_field timeofdaylighting overcast DiffuseColour X 0.23
+update_field timeofdaylighting overcast DiffuseColour Y 0.23
+update_field timeofdaylighting overcast DiffuseColour Z 0.23
+update_field timeofdaylighting overcast FixedFunctionSkyColor X 0.23
+update_field timeofdaylighting overcast FixedFunctionSkyColor Y 0.23
+update_field timeofdaylighting overcast FixedFunctionSkyColor Z 0.23
+update_field timeofdaylighting sunny DiffuseColour X 0.23
+update_field timeofdaylighting sunny DiffuseColour Y 0.23
+update_field timeofdaylighting sunny DiffuseColour Z 0.23
+update_field timeofdaylighting sunny FixedFunctionSkyColor X 0.23
+update_field timeofdaylighting sunny FixedFunctionSkyColor Y 0.23
+update_field timeofdaylighting sunny FixedFunctionSkyColor Z 0.23
+
+
+update_field timeofdaylighting dusk_overcast AmbientColour X 0.25
+update_field timeofdaylighting dusk_overcast AmbientColour Y 0.24
+update_field timeofdaylighting dusk_overcast AmbientColour Z 0.31
+update_field timeofdaylighting dusk_overcast CarSpecScale 0.2
+update_field timeofdaylighting dusk_overcast DiffuseColour X 1
+update_field timeofdaylighting dusk_overcast DiffuseColour Y 0.8
+update_field timeofdaylighting dusk_overcast DiffuseColour Z 0.95
+update_field timeofdaylighting dusk_overcast EnvSkyBrightness 0
+update_field timeofdaylighting dusk_overcast FixedFunctionSkyColor X 0.86
+update_field timeofdaylighting dusk_overcast FixedFunctionSkyColor Y 0.95
+update_field timeofdaylighting dusk_overcast FixedFunctionSkyColor Z 1
+update_field timeofdaylighting dusk_overcast FogDistanceScale 3
+update_field timeofdaylighting dusk_overcast FogHazeColour X 0.23
+update_field timeofdaylighting dusk_overcast FogHazeColour Y 0.28
+update_field timeofdaylighting dusk_overcast FogHazeColour Z 0.37
+update_field timeofdaylighting dusk_overcast FogHazeColourScale 0
+update_field timeofdaylighting dusk_overcast FogSkyColourScale 3
+update_field timeofdaylighting dusk_overcast SpecularColour X 0.32
+update_field timeofdaylighting dusk_overcast SpecularColour Y 0.28
+update_field timeofdaylighting dusk_overcast SpecularColour Z 0.22
+update_field timeofdaylighting dusk_overcast SpecularColour W 0
+update_field timeofdaylighting dusk_overcast FogInLightScatter 3.2
+update_field timeofdaylighting dusk_overcast FogSkyColour X 0.02
+update_field timeofdaylighting dusk_overcast FogSkyColour Y 0.04000001
+update_field timeofdaylighting dusk_overcast FogSkyColour Z 0.08
+update_field timeofdaylighting dusk_overcast FogSunFalloff 0
+update_field timeofdaylighting dusk_sunny AmbientColour X 0.25
+update_field timeofdaylighting dusk_sunny AmbientColour Y 0.24
+update_field timeofdaylighting dusk_sunny AmbientColour Z 0.31
+update_field timeofdaylighting dusk_sunny CarSpecScale 0.2
+update_field timeofdaylighting dusk_sunny DiffuseColour X 1
+update_field timeofdaylighting dusk_sunny DiffuseColour Y 0.8
+update_field timeofdaylighting dusk_sunny DiffuseColour Z 0.3
+update_field timeofdaylighting dusk_sunny EnvSkyBrightness 0
+update_field timeofdaylighting dusk_sunny FixedFunctionSkyColor X 0.86
+update_field timeofdaylighting dusk_sunny FixedFunctionSkyColor Y 0.95
+update_field timeofdaylighting dusk_sunny FixedFunctionSkyColor Z 1
+update_field timeofdaylighting dusk_sunny FogDistanceScale 3
+update_field timeofdaylighting dusk_sunny FogHazeColour X 0.23
+update_field timeofdaylighting dusk_sunny FogHazeColour Y 0.28
+update_field timeofdaylighting dusk_sunny FogHazeColour Z 0.37
+update_field timeofdaylighting dusk_sunny FogHazeColourScale 0
+update_field timeofdaylighting dusk_sunny FogSkyColourScale 3
+update_field timeofdaylighting dusk_sunny SpecularColour X 0.32
+update_field timeofdaylighting dusk_sunny SpecularColour Z 0.22
+update_field timeofdaylighting dusk_sunny FogInLightScatter 3.2
+update_field timeofdaylighting dusk_sunny FogSkyColour X 0.02
+update_field timeofdaylighting dusk_sunny FogSkyColour Y 0.04000001
+update_field timeofdaylighting dusk_sunny FogSkyColour Z 0.08
+update_field timeofdaylighting dusk_sunny FogSunFalloff 0
+update_field timeofdaylighting dusk_overcast FixedFunctionSkyColor Y 0.3
+update_field timeofdaylighting dusk_overcast DiffuseColour Z 0.3
+update_field timeofdaylighting dusk_overcast FixedFunctionSkyColor Y 0.95
+
+update_field visuallook extreme_uves 0x1d521c97 M[2,1] 0
+update_field visuallook extreme_uves 0x1d521c97 M[2,2] 0
+update_field visuallook extreme_uves 0x1d521c97 M[3,1] 0
+update_field visuallook extreme_uves 0x1d521c97 M[3,2] 0
+update_field visuallook extreme_uves 0x1d521c97 M[4,1] 0
+update_field visuallook extreme_uves 0x1d521c97 M[4,2] 0
+update_field visuallook extreme_uves 0x51376819 M[2,1] 0
+update_field visuallook extreme_uves 0x51376819 M[2,2] 0
+update_field visuallook extreme_uves 0x51376819 M[3,1] 0
+update_field visuallook extreme_uves 0x51376819 M[3,2] 0
+update_field visuallook extreme_uves 0xaaaccdf3 M[2,1] 0
+update_field visuallook extreme_uves 0xaaaccdf3 M[2,2] 0
+update_field visuallook extreme_uves 0xaaaccdf3 M[3,1] 0
+update_field visuallook extreme_uves 0xaaaccdf3 M[3,2] 0
+update_field visuallook extreme_uves 0xaaaccdf3 M[4,1] 0
+update_field visuallook extreme_uves 0xaaaccdf3 M[4,2] 10
+update_field visuallook extreme_uves 0xaaaccdf3 M[4,2] 0
+update_field visuallook uves 0x1d521c97 M[2,1] 0
+update_field visuallook uves 0x1d521c97 M[2,2] 0
+update_field visuallook uves 0x1d521c97 M[3,1] 0
+update_field visuallook uves 0x1d521c97 M[3,2] 0
+update_field visuallook uves 0x1d521c97 M[4,1] 0
+update_field visuallook uves 0x1d521c97 M[4,2] 0
+update_field visuallook uves 0x51376819 M[2,1] 0
+update_field visuallook uves 0x51376819 M[2,2] 0
+update_field visuallook uves 0x51376819 M[3,1] 0
+update_field visuallook uves 0x51376819 M[3,2] 0
+update_field visuallook uves 0x51376819 M[4,1] 0
+update_field visuallook uves 0x51376819 M[4,2] 0
+update_field visuallook uves 0xaaaccdf3 M[2,1] 0
+update_field visuallook uves 0xaaaccdf3 M[2,2] 0
+update_field visuallook uves 0xaaaccdf3 M[3,1] 0
+update_field visuallook uves 0xaaaccdf3 M[3,2] 0
+update_field visuallook uves 0xaaaccdf3 M[4,1] 0
+update_field visuallook uves 0xaaaccdf3 M[4,2] 0
+update_field visuallook default Desaturation 1
+update_field visuallook default ColourBloomTint X 0.42
+update_field visuallook default ColourBloomTint Y 0.42
+update_field visuallook default ColourBloomTint Z 0.42
+update_field visuallook default ColourBloomIntensity 1.2
+update_field visuallook default BlackBloomIntensity 0.06
+
+update_field 0xaf1837ca default red M[2,1] 0.5
+update_field 0xaf1837ca default red M[2,2] 0.5
+update_field 0xaf1837ca default red M[3,1] 0.5
+update_field 0xaf1837ca default red M[3,2] 0.5
+update_field 0xaf1837ca default red M[4,1] 1
+update_field 0xaf1837ca default red M[4,2] 1
+update_field 0xaf1837ca default blue M[1,1] 0
+update_field 0xaf1837ca default blue M[1,2] 0
+update_field 0xaf1837ca default blue M[2,1] 0.5
+update_field 0xaf1837ca default blue M[2,2] 0.5
+update_field 0xaf1837ca default blue M[3,1] 0.5
+update_field 0xaf1837ca default blue M[3,2] 0.5
+update_field 0xaf1837ca default blue M[4,1] 1
+update_field 0xaf1837ca default blue M[4,2] 1
+update_field 0xaf1837ca default green M[2,1] 0.5
+update_field 0xaf1837ca default green M[2,2] 0.5
+update_field 0xaf1837ca default green M[3,1] 0.5
+update_field 0xaf1837ca default green M[3,2] 0.5
+update_field 0xaf1837ca default blue M[2,1] 0.25
+update_field 0xaf1837ca default blue M[2,2] 0.25
+update_field 0xaf1837ca default blue M[3,1] 0.25
+update_field 0xaf1837ca default blue M[3,2] 0.25
+update_field 0xaf1837ca default blue M[4,1] 0.25
+update_field 0xaf1837ca default blue M[4,2] 0.25
+update_field 0xaf1837ca default green M[2,1] 0.25
+update_field 0xaf1837ca default green M[2,2] 0.25
+update_field 0xaf1837ca default green M[3,1] 0.25
+update_field 0xaf1837ca default green M[3,2] 0.25
+update_field 0xaf1837ca default green M[4,1] 0.25
+update_field 0xaf1837ca default green M[4,2] 0.25
+update_field 0xaf1837ca default red M[2,1] 0.25
+update_field 0xaf1837ca default red M[2,2] 0.25
+update_field 0xaf1837ca default red M[3,1] 0.25
+update_field 0xaf1837ca default red M[3,2] 0.25
+update_field 0xaf1837ca default red M[4,1] 0.25
+update_field 0xaf1837ca default red M[4,2] 0.25
+update_field 0xaf1837ca default red M[4,1] 1
+update_field 0xaf1837ca default red M[4,2] 1
+update_field 0xaf1837ca default green M[4,1] 1
+update_field 0xaf1837ca default green M[4,2] 1
+update_field 0xaf1837ca default blue M[4,1] 1
+update_field 0xaf1837ca default blue M[4,2] 1

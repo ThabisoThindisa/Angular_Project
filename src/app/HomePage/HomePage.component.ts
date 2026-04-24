@@ -5,7 +5,7 @@ import { RouterOutlet } from '@angular/router';
   selector: 'Home-Page',
     imports: [RouterOutlet],         
   templateUrl: './HomePage.component.html',
-   styleUrl: './HomePage.component.css'
+   styleUrls: ['../GeneralStyle.css']
 })
 export class HomePage {
   protected readonly title = signal('HomePage');
